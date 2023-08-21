@@ -1,6 +1,5 @@
 # To-Do-List-App-Using-HTML-CSS-And-JavaScript
 
-Sure, here is a short readme for a GitHub repository of a To-Do List App built with HTML, CSS, and JavaScript:
 
 To-Do List App
 This is a simple To-Do List App that allows users to add, save, delete, and mark tasks as completed. The app is built with HTML, CSS, and JavaScript.
